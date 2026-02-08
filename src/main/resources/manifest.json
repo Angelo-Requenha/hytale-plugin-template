@@ -1,0 +1,6 @@
+{
+  "Group": "net.requenha",
+  "Name": "HelloWorld",
+  "Version": "1.0.0",
+  "Main": "net.requenha.plugin.HelloWorld"
+}
