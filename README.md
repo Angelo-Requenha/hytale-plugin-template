@@ -23,7 +23,7 @@ O servidor Hytale atualmente reconhece até **class file version 65 (Java 21)**.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git MeuNovoPlugin
+git clone git@github.com:Angelo-Requenha/hytale-plugin-template.git MeuNovoPlugin
 cd MeuNovoPlugin
 ```
 
